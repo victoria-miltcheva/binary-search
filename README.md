@@ -1,2 +1,2 @@
 # binary-search
-binary search algorithm implementation
+Implementation of binary search algorithm
